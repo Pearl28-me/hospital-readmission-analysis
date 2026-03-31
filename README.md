@@ -77,27 +77,26 @@ This highlights the complexity of predicting hospital readmissions and the need 
 * No strong single predictor — multiple factors contribute
 
 
-## 📁 Project Structure
+## Project Structure
 hospital-readmission-analysis/
 │
 ├── data/
 ├── images/
 ├── notebooks/
-│   └── analysis.ipynb
-├── requirements.txt
+│   └──Project1 .ipynb
 └── README.md
 
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
-bash
+git bash
 pip install -r requirements.txt
 jupyter notebook
 
 Open:
 notebooks/analysis.ipynb
 
-## 🔮 Future Work
+## Future Work
 
 * Build machine learning models to predict readmission
 * Perform feature engineering
